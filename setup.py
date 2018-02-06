@@ -6,12 +6,12 @@ def read(fname):
 
 setup(
     name="Archey3",
-    version="0.4",
-    author="Laurie Clark-Michalek",
-    author_email="bluepeppers@archlinux.us",
-    description="A simple python scrip to display an Archlinux logo in ASCII art along with basic system information.",
-    license="GPL",
-    url="http://bluepeppers.github.com/archey3",
+    version="1.0",
+    author="Abhey Rana",
+    author_email="abheyranacool123.ar@gmail.com",
+    description="A simple python script to display Pheonix logo in ASCII art along with basic system information.",
+    license="MIT",
+    url="https://github.com/Abhey/Nadaan-Parinda",
     long_description=read("README.md"),
     scripts=["archey3"]
 )

@@ -1,13 +1,12 @@
-# Maintainer: Laurie Clark-Michalek <bluepeppers@archlinux.us>
-# Contributer: graysky <graysky AT archlinux DOR us>
+# Maintainer: Abhey Rana <abheyranacool123.ar@gmail.com>
 
 pkgname=archey3
 pkgver=0.5
 pkgrel=1
-pkgdesc="Python script to display system infomation alongside the Arch Linux logo."
+pkgdesc="Python script to display system infomation alongside the Pheonix Logo."
 arch=('any')
-url="http://bluepeppers.github.com/archey3"
-license=('GPL')
+url="https://github.com/Abhey/Nadaan-Parinda"
+license=('MIT')
 depends=('python')
 makedepends=('git' 'python-distribute')
 optdepends=(
@@ -17,7 +16,7 @@ optdepends=(
 )
 conflicts=('archey')
 provides=('archey')
-source="git://github.com/bluepeppers/archey3.git"
+source="git://github.com/Abhey/Nadaan-Parinda"
 md5sums=('SKIP')
 
 pkgver() {

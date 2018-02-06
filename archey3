@@ -50,26 +50,30 @@ UNAME_FLAG_MEANINGS = {
 }
 
 LOGOS = {'Arch Linux': '''{c1}
-{c1}               +                {results[0]}
-{c1}               #                {results[1]}
-{c1}              ###               {results[2]}
-{c1}             #####              {results[3]}
-{c1}             ######             {results[4]}
-{c1}            ; #####;            {results[5]}
-{c1}           +##.#####            {results[6]}
-{c1}          +##########           {results[7]}
-{c1}         ######{c2}#####{c1}##;         {results[8]}
-{c1}        ###{c2}############{c1}+        {results[9]}
-{c1}       #{c2}######   #######        {results[10]}
-{c2}     .######;     ;###;`\".      {results[11]}
-{c2}    .#######;     ;#####.       {results[12]}
-{c2}    #########.   .########`     {results[13]}
-{c2}   ######'           '######    {results[14]}
-{c2}  ;####                 ####;   {results[15]}
-{c2}  ##'                     '##   {results[16]}
-{c2} #'                         `#  {results[17]}
+{c1}.:.                                            .:.            {results[0]}
+{c1} :0xc.                                      'ckKc             {results[1]}
+{c1}   ,xxkxc'                                'cxO00:             {results[2]}
+{c1}    'xkllxkl'.         .,,,;:c,       .;lkxoxOO;              {results[3]}
+{c1}     .;;odkxxoo;.     .cdO0x,.     .;dkxxkdodo'               {results[4]}
+{c1}        ',cloodxkxl,    oxkx    'cldxkkkxxol.                 {results[5]}
+{c1}        .lddxkkkkOOko';cdxOkcokOxddokOOOk:.                   {results[6]}
+{c1}          ;oxxxxkOOkxc;lOOkkkk0Okdoooooc                      {results[7]}
+{c1}             .'cl::dxol,,:xkkxxOkxdoc'.                       {results[8]}
+{c1}                      .'cdd,.                                 {results[9]}
+{c1}                       ,xkl                                   {results[10]}
+{c2}                      .co00:                                  {results[11]}
+{c2}                     .o:lxO0,                                 {results[12]}
+{c2}                    .oxoxkkkx.                                {results[13]}
+{c2}                   .dxxdddxddd.                               {results[14]}
+{c2}                   coddxkkxodkx.                              {results[15]}
+{c2}                  ... clcdko.'cl                              {results[16]}
+{c2}                     .c;,xkx.                                 {results[17]}
+                      .,;do:                      
+                       .,o;                       
+                        ..                        
 \x1b[0m'''
 }
+
 
 CLASS_MAPPINGS = {}
 
